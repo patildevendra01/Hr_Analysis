@@ -53,7 +53,6 @@ Explore the visuals, filters, and key metrics.
 Go to Power Query Editor to view all data cleaning steps applied to the raw dataset.
 
 
-👤 Author
-Devendra Patil
-Power BI & Data Analytics Enthusiast
-📧 Email: devendrapatil8983@gmail.com
+## 👤 Author  
+**Devendra Patil**  
+Email: devendrapatil8983@gmail.com
