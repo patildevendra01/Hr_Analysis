@@ -48,7 +48,7 @@ The dashboard includes the following key metrics and visuals:
 └── README.md ← Project overview and documentation
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](Hr_Analytic.png)
+![Dashboard Preview]HR_Analytic_ss.png)
 
 
 🚀 How to Use
