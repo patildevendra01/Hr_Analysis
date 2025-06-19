@@ -40,3 +40,28 @@ The dashboard includes the following key metrics and visuals:
 
 ## 📂 Repository Structure
 
+/hr-analytics-dashboard
+│
+├── HR_Analytsis_Dashboard.pbix ← Power BI dashboard file
+├── HR_Analytics.csv ← Raw dataset (uncleaned)
+├── dashboard_screenshot.png ← Dashboard preview image 
+└── README.md ← Project overview and documentation
+
+## 🖼️ Dashboard Preview
+
+
+
+🚀 How to Use
+Clone or download this repository.
+
+Open HR_Analytsis_Dashboard.pbix using Power BI Desktop.
+
+Explore the visuals, filters, and key metrics.
+
+Go to Power Query Editor to view all data cleaning steps applied to the raw dataset.
+
+
+👤 Author
+Devendra Patil
+Power BI & Data Analytics Enthusiast
+Emai Id:- devendrapatil8983@gmail.com
