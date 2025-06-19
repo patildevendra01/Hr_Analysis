@@ -44,11 +44,12 @@ The dashboard includes the following key metrics and visuals:
 │
 ├── HR_Analytsis_Dashboard.pbix ← Power BI dashboard file
 ├── HR_Analytics.csv ← Raw dataset (uncleaned)
-├── dashboard_screenshot.png ← Dashboard preview image 
+├── dashboard_screenshot.png ← Dashboard preview image (optional)
 └── README.md ← Project overview and documentation
 
+
 ## 🖼️ Dashboard Preview
-![Dashboard Preview]HR_Analytic_ss.png)
+![Dashboard Preview](HR_Analytic_ss.png)
 
 
 🚀 How to Use
